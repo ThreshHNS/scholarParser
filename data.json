@@ -1,0 +1,57 @@
+{
+  "topic": "private ipfs",
+  "data": {
+    "1": [
+      {
+        "url": "https://ieeexplore.ieee.org/abstract/document/8946164/",
+        "title": "BlockIPFS-blockchain-enabled interplanetary file system for forensic and trusted data traceability",
+        "authors": ["RM Parizi", "Q Zhang"]
+      },
+      {
+        "url": "https://dl.acm.org/doi/abs/10.1145/3456146.3456159",
+        "title": "Performance evaluation of ipfs in private networks",
+        "authors": ["O Abdullah Lajam", "T Ahmed Helmy"]
+      },
+      {
+        "url": "https://ieeexplore.ieee.org/abstract/document/9142766/",
+        "title": "Mapping the interplanetary filesystem",
+        "authors": ["M Florian"]
+      },
+      {
+        "url": "https://ieeexplore.ieee.org/abstract/document/9437830/",
+        "title": "A Method for Protecting Private Data in IPFS",
+        "authors": []
+      },
+      {
+        "url": "https://www.mdpi.com/1715122",
+        "title": "Blockchain Private File Storage-Sharing Method Based on IPFS",
+        "authors": []
+      },
+      {
+        "url": "https://ieeexplore.ieee.org/abstract/document/8977633/",
+        "title": "A decentralized way to store and authenticate educational documents on private blockchain",
+        "authors": ["C Vashistth", "A Rajak"]
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0167739X19323003",
+        "title": "Delegated content erasure in IPFS",
+        "authors": ["E Politou", "E Alepis", "C Patsakis", "F Casino"]
+      },
+      {
+        "url": "https://www.igi-global.com/chapter/decentralizing-privacy-using-blockchain-to-protect-private-data-and-challanges-with-ipfs/310502",
+        "title": "Decentralizing privacy using blockchain to protect private data and challanges with ipfs",
+        "authors": ["MK Manoj"]
+      },
+      {
+        "url": "https://ieeexplore.ieee.org/abstract/document/9369473/",
+        "title": "Data persistence in decentralized social applications: The ipfs approach",
+        "authors": ["B Guidi", "A Michienzi", "L Ricci"]
+      },
+      {
+        "url": "https://ieeexplore.ieee.org/abstract/document/8645058/",
+        "title": "Building an ethereum and ipfs-based decentralized social network system",
+        "authors": ["Q Xu", "RSM Goh"]
+      }
+    ]
+  }
+}
